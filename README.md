@@ -53,7 +53,7 @@
 
 <h2>App UI</h2>
 
-<h6 style="color: gray;">Developed by Muhammad Sumair</h6>
+<h6 style="color: gray;">Clone Developed by Muhammad Sumair</h6>
 
 </body>
 </html>

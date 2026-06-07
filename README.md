@@ -6,6 +6,19 @@
 </head>
 <body>
 
+<table width="100%">
+    <tr>
+        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(6).jpeg" width="300" alt="App UI 1" /></td>
+        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(5).jpeg" width="300" alt="App UI 2" /></td>
+        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(4).jpeg" width="300" alt="App UI 3" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(1).jpeg" width="300" alt="App UI 4" /></td>
+        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(2).jpeg" width="300" alt="App UI 5" /></td>
+        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(3).jpeg" width="300" alt="App UI 6" /></td>
+    </tr>
+</table>
+
 <h1>KFC App Clone</h1>
 
 <p>A fully functional KFC food delivery app clone built with Flutter using Clean Architecture and Bloc for scalable state management.</p>
@@ -39,18 +52,6 @@
 </ul>
 
 <h2>App UI</h2>
-<table width="100%">
-    <tr>
-        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(6).jpeg" width="300" alt="App UI 1" /></td>
-        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(5).jpeg" width="300" alt="App UI 2" /></td>
-        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(4).jpeg" width="300" alt="App UI 3" /></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(1).jpeg" width="300" alt="App UI 4" /></td>
-        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(2).jpeg" width="300" alt="App UI 5" /></td>
-        <td><img src="https://github.com/sumair-ce/KFC-App-Clone-Using-Flutter/blob/main/uiscreenshot_kfc%20(3).jpeg" width="300" alt="App UI 6" /></td>
-    </tr>
-</table>
 
 <h6 style="color: gray;">Developed by Muhammad Sumair</h6>
 
